@@ -1,1 +1,0 @@
-import{_ as o}from"./DlAUqK2U.js";import{c as t,a as r,o as n}from"./DckgTVDs.js";const s={};function a(c,e){return n(),t("div",null,e[0]||(e[0]=[r("h1",null,"Пользовательское соглашение",-1),r("p",null,"Страница в разработке.",-1)]))}const m=o(s,[["render",a]]);export{m as default};
