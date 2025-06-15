@@ -1,1 +1,0 @@
-import{_ as r,c as o,a as n,o as t}from"./BYdWeFw6.js";const a={};function c(s,e){return t(),o("div",null,e[0]||(e[0]=[n("h1",null,"Политика конфиденциальности",-1),n("p",null,"Страница в разработке.",-1)]))}const _=r(a,[["render",c]]);export{_ as default};
