@@ -1,0 +1,1 @@
+import{_ as o}from"./DlAUqK2U.js";import{c as n,a as r,o as t}from"./DckgTVDs.js";const a={};function c(s,e){return t(),n("div",null,e[0]||(e[0]=[r("h1",null,"Политика конфиденциальности",-1),r("p",null,"Страница в разработке.",-1)]))}const p=o(a,[["render",c]]);export{p as default};
